@@ -1,1 +1,1 @@
-System.out.println("hello kkfunda");
+System.out.print("hello kkfunda");
