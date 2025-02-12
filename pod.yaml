@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Pod
 metadata:
-  name: Order
+  name: Bill
 spec:
   containers:
   - name: nginx
